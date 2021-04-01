@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)http://www.brookside.co.ke/fresh-milk/ -->
+<html lang="en-US" class="js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	
+
+    <meta name="Description" content="A Diary Dream">
+    
+    <meta name="google-site-verification" content="fDh6qVECLsEo31-8cr2UwUN5NptksMjECFYvwAL09dw">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<link href="./cover_files/css" rel="stylesheet">
+
+	
+	<script type="text/javascript" async="" src="./cover_files/linkid.js"></script><script async="" src="./cover_files/analytics.js"></script><script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Fresh Milk – Brookside</title>
+<meta name="robots" content="noindex,follow">
+<link rel="alternate" type="application/rss+xml" title="Brookside » Feed" href="http://www.brookside.co.ke/feed/">
+<link rel="alternate" type="application/rss+xml" title="Brookside » Comments Feed" href="http://www.brookside.co.ke/comments/feed/">
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.14.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+    (window.gaDevIds=window.gaDevIds||[]).push("dZGIzZG");
+	var mi_version         = '7.14.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-179026542-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-179026542-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.brookside.co.ke\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.23"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="./cover_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="monsterinsights-popular-posts-style-css" href="./cover_files/frontend.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="./cover_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="child-style-css" href="./cover_files/bootstrap.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="twentysixteen-fonts-css" href="./cover_files/css(1)" type="text/css" media="all">
+<link rel="stylesheet" id="genericons-css" href="./cover_files/genericons.css" type="text/css" media="all">
+<link rel="stylesheet" id="twentysixteen-style-css" href="./cover_files/style(1).css" type="text/css" media="all">
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='http://www.brookside.co.ke/wp-content/themes/twentysixteen/css/ie.css?ver=20160412' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='http://www.brookside.co.ke/wp-content/themes/twentysixteen/css/ie8.css?ver=20160412' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='http://www.brookside.co.ke/wp-content/themes/twentysixteen/css/ie7.css?ver=20160412' type='text/css' media='all' />
+<![endif]-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/www.brookside.co.ke","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./cover_files/frontend.min.js"></script>
+<script type="text/javascript" src="./cover_files/jquery.js"></script>
+<script type="text/javascript" src="./cover_files/jquery-migrate.min.js"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.brookside.co.ke/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="http://www.brookside.co.ke/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.brookside.co.ke/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.brookside.co.ke/wp-includes/wlwmanifest.xml"> 
+<link rel="next" title="Long Life Milk" href="http://www.brookside.co.ke/long-life-milk/">
+<meta name="generator" content="WordPress 4.5.23">
+<link rel="canonical" href="http://www.brookside.co.ke/fresh-milk/">
+<link rel="shortlink" href="http://www.brookside.co.ke/?p=344">
+<link rel="alternate" type="application/json+oembed" href="http://www.brookside.co.ke/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.brookside.co.ke%2Ffresh-milk%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.brookside.co.ke/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.brookside.co.ke%2Ffresh-milk%2F&amp;format=xml">
+<meta name="google-site-verification" content="ulJrRkLg5io50P0qDRQ33gWKxC6Ggcg4nu6Mr5JlNC4">
+
+</head>
+
+
+
+<body class="single single-post postid-344 single-format-standard no-sidebar">
+
+    
+<div id="page" class="site freshmilk">
+
+	<div class="site-inner">
+
+		<header id="masthead" class="site-header" role="banner">
+
+			<div class="site-header-main container">
+
+				<div class="site-branding col-md-6 col-sm-3 col-xs-6">
+
+					
+
+
+					
+                    		
+				
+				<div class="header-image">
+
+					<p class="site-title"><a class="logo-link" href="http://www.brookside.co.ke/" rel="home">
+
+						<img src="./cover_files/logo.png" srcset="" sizes="(max-width: 709px) 85vw, (max-width: 909px) 81vw, (max-width: 1362px) 88vw, 1200px" width="164" height="91" alt="Brookside">
+
+                        </a></p>
+
+				</div><!-- .header-image -->
+
+			
+					
+				</div><!-- .site-branding -->
+
+                
+				
+					<button id="menu-toggle" class="menu-toggle" aria-expanded="false" aria-controls="site-navigation social-navigation"><span class="icon-bar ic1"></span>
+
+<span class="icon-bar ic2"></span>
+
+<span class="icon-bar ic3"></span></button>
+
+
+					<div id="site-header-menu" class="site-header-menu sub-page">
+
+                        
+						
+							<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu" aria-expanded="false">
+
+								<div class="menu-brook-menu-container"><ul id="menu-brook-menu" class="primary-menu"><li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://www.brookside.co.ke/">Home</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://www.brookside.co.ke/about-us/">About Us</a></li>
+<li id="menu-item-901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-901"><a href="https://www.brookside.co.ke/category/brands/brookside/">Our Products</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://www.brookside.co.ke/our-impact/">Our Impact</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://www.brookside.co.ke/contact/">Contact Us</a></li>
+<li id="menu-item-707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-707"><a target="_blank" href="http://sales.brookside.co.ke/">Customer Log-In</a></li>
+<li id="menu-item-744" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-744"><a target="_blank" href="http://onlineleave.brookside.co.ke:8083/PerpaySS/">Employee Log-In</a></li>
+</ul></div>
+							</nav><!-- .main-navigation -->
+
+						
+
+
+						
+
+					</div><!-- .site-header-menu -->
+
+				
+<div class="right-bar col-md-6 col-sm-6 col-xs-6 pull-right-sm">
+
+    <div class="header-search">
+<form role="search" method="get" class="search-form" action="http://www.brookside.co.ke/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" value="" name="s">
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+</form>
+</div>
+
+                
+							<nav id="social-navigation" class="social-navigation" role="navigation" aria-label="Social Links Menu" aria-expanded="false">
+
+								<div class="menu-social-nav-container"><ul id="menu-social-nav" class="social-links-menu"><li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a target="_blank" href="https://www.facebook.com/BrooksideDairyOfficial/"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-1084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1084"><a target="_blank" href="http://www.twitter.com/brooksideltd"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-1085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1085"><a target="_blank" href="http://www.instagram.com/brooksidedairy"><span class="screen-reader-text">Instagram</span></a></li>
+<li id="menu-item-1086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1086"><a target="_blank" href="https://www.linkedin.com/company/brookside-dairy/"><span class="screen-reader-text">LinkedIn</span></a></li>
+<li id="menu-item-1116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1116"><a target="_blank" href="https://www.youtube.com/channel/UCJABP_Vi_g7rHnJUCwF8PVA/featured"><span class="screen-reader-text">YouTube</span></a></li>
+</ul></div>
+							</nav><!-- .social-navigation -->
+
+						
+            
+
+
+    </div>
+
+			</div><!-- .site-header-main -->   
+
+
+	<div class="container-fluid banner-con">
+
+	<div id="brook-banner" class="carousel-fade carousel slide col-xs-12 col-sm-12 col-lg-12 col-md-12">
+
+	<ol class="carousel-indicators visible-xs">
+
+	<li data-target="#brook-banner" data-slide-to="0" class="active"></li>
+
+	<li data-target="#brook-banner" data-slide-to="1"></li>
+
+	<li data-target="#brook-banner" data-slide-to="2"></li>
+
+	</ol> 
+
+		<div class="carousel-inner"><div class="item item-1 active cycle-slide cycle-sentinel" style="position: static; top: 0px; left: 0px; z-index: 99; opacity: 1; display: block; visibility: hidden;">
+
+			<div class="fill banner-1" style="background-image: url(&quot;http://www.brookside.co.ke/wp-content/uploads/2016/08/Brookside-Banner-Image-1024x518.jpg&quot;); visibility: hidden;"></div>
+
+			</div>
+
+			
+
+			    
+
+		<div class="item item-1 active cycle-slide cycle-slide-active" style="position: absolute; top: 0px; left: 0px; z-index: 99; opacity: 1; display: block; visibility: visible;">
+
+			<div class="fill banner-1" style="background-image:url(http://www.brookside.co.ke/wp-content/uploads/2016/08/Brookside-Banner-Image-1024x518.jpg);"></div>
+
+			</div></div>    
+
+	</div>
+
+	</div>
+
+		
+
+</header><!-- .site-header -->
+
+<div class="container-fluid">
+
+<div id="content" class="site-content container">
+
+
+<div id="primary" class="content-area">
+	<main id="main" class="site-main" role="main">
+		<div class="widget widget_text">
+<div class="container">
+<div class="mid-content">
+<h2><b>Brookside</b></h2>
+
+<div class="">The journey of Brookside Dairy's milk, right from the farm-gates through to manufacturing lines and all the way to the point of sale, is pivoted on a stringent quality standards management process, with more than 202 quality tests undertaken from grass to glass.
+
+Delight in&nbsp;any of these nutritious Brookside products&nbsp;- Kenya’s no.1&nbsp;dairy brand.</div></div>
+</div>
+</div>
+
+<article id="post-344" class="post-344 post type-post status-publish format-standard has-post-thumbnail hentry category-brookside">
+      	
+	
+	<div class="entry-content">
+		<div class="col-md-6 col-sm-6 col-xs-12"><img width="1200" height="841" src="./cover_files/Standard-1200x841.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Standard.png" srcset="http://www.brookside.co.ke/wp-content/uploads/2016/08/Standard-1200x841.png 1200w, http://www.brookside.co.ke/wp-content/uploads/2016/08/Standard-300x210.png 300w, http://www.brookside.co.ke/wp-content/uploads/2016/08/Standard-768x538.png 768w, http://www.brookside.co.ke/wp-content/uploads/2016/08/Standard-1024x717.png 1024w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 88vw, 1200px"></div>
+<div class="col-md-6 col-sm-6 col-xs-12">
+<h2>Fresh Milk</h2>
+<p>Natures’ goodness perfected for you.<br>
+<strong>Available sizes</strong>: 500ml, 1L, 2L</p>
+</div>
+<div class="col-md-20 col-sm-12 col-xs-12 pull-left">
+<table class="table">
+<thead>
+<tr class="table-success">
+<th>Nutritional Information</th>
+<th>Approraximate min value per 100 mls</th>
+</tr>
+</thead>
+<tbody>
+<tr class="table-info">
+<td>Energy</td>
+<td>60 kCal</td>
+</tr>
+<tr class="table-info">
+<td>Carbohydrates</td>
+<td>4.2 g</td>
+</tr>
+<tr class="table-info">
+<td>Protein</td>
+<td>3.4 g</td>
+</tr>
+<tr class="table-info">
+<td>Fat-min</td>
+<td>3.3 g</td>
+</tr>
+<tr class="table-info">
+<td>Potassium</td>
+<td>127 mg</td>
+</tr>
+<tr class="table-info">
+<td>Calcium</td>
+<td>120 mg</td>
+</tr>
+<tr class="table-info">
+<td>Vitamin A</td>
+<td>98 iU</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="col-md-20 col-sm-12 col-xs-12 pull-left"></div>
+	</div><!-- .entry-content -->
+
+
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-next"><a href="http://www.brookside.co.ke/long-life-milk/" rel="next"><span class="meta-nav" aria-hidden="true">Next</span> <span class="screen-reader-text">Next post:</span> <span class="post-title">Long Life Milk</span></a></div></div>
+	</nav>
+	</main><!-- .site-main -->
+
+	
+</div><!-- .content-area -->
+
+
+
+
+
+		</div><!-- .site-content -->
+
+</div>
+
+    
+		<footer id="colophon" class="site-footer container freshmilk" role="contentinfo">
+
+          
+
+
+	<img src="./cover_files/footer-milk-image.png" alt="footer-milk-image">
+
+
+
+            
+
+		<div class="ftr-links">
+        
+
+
+            <div class="ftr-links-sub">
+    <span class="ftr-opa"></span>
+            
+							<nav id="footer-navigation" class="footer-navigation" role="navigation" aria-label="Footer Menu">
+
+								<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="footer-links-menu"><li id="menu-item-891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-891"><a href="http://www.brookside.co.ke/">Home</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://www.brookside.co.ke/about-us/">About Us</a></li>
+<li id="menu-item-896" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-896"><a href="http://www.brookside.co.ke/category/brands/brookside/">Our Products</a></li>
+<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://www.brookside.co.ke/our-impact/">Our Impact</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://www.brookside.co.ke/contact/">Contact Us</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115"><a>© Brookside Ltd</a></li>
+</ul></div>
+							</nav><!-- .social-navigation -->
+
+						
+            </div>	</div>
+
+		</footer><!-- .site-footer -->
+
+	</div><!-- .site-inner -->
+
+</div><!-- .site -->
+
+
+
+<script type="text/javascript" src="./cover_files/jquery.form.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.brookside.co.ke\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./cover_files/scripts.js"></script>
+<script type="text/javascript" src="./cover_files/bootstrap.min.js"></script>
+<script type="text/javascript" src="./cover_files/jquery.cycle2.min.js"></script>
+<script type="text/javascript" src="./cover_files/brook-script.js"></script>
+<script type="text/javascript" src="./cover_files/skip-link-focus-fix.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./cover_files/functions.js"></script>
+<script type="text/javascript" src="./cover_files/wp-embed.min.js"></script>
+
+
+
+
+
+
+
+</body></html>

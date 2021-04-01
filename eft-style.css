@@ -1,0 +1,523 @@
+html{
+    scroll-behavior: smooth;
+
+}
+body{
+    width: 100%;
+    color: gold;
+    background: url(freshmilk.png);
+    background-color: rgba(0, 0, 0, 0.877);
+    background-blend-mode: multiply;
+    background-size: contain;
+}
+.homepage h1{
+    font-family: monospace;
+    font-size: 300%;
+}
+nav{
+    text-align: center;
+    width: 90%;
+    
+    background-color: rgba(123, 172, 228, 0.745);
+
+}
+
+nav a{
+    transition: 0.5s;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 120%;
+    text-decoration: none;
+    color: gold;
+    border-radius: 5px;
+    padding: 0 2% 0 2%;
+    cursor: pointer;
+}
+nav a:hover{
+    background-color: rgba(255, 183, 0, 0.322);
+    color: gold;
+    
+    font-size: 125%;
+
+}
+#services{
+    padding-bottom: 10%;
+}
+
+.tab{
+    color: blanchedalmond;
+    opacity: 70%;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+
+form{
+    padding-left: 5%;
+    margin: 1% 30% ;
+    border: 1px solid black;
+    width: 40%;
+    text-align: left;
+    background-size: cover;
+    background: url(longlife.png);
+    background-color: rgba(29, 12, 41, 0.808);
+    background-blend-mode: multiply;
+    transition: 3s;
+}
+
+form:hover{
+    margin:4% 28%;
+    transition: 1s;
+    transform: skewY(5deg);
+    width: 45%;
+    background: url(logo.png);
+    background-color: rgb(19, 7, 29);
+    background-blend-mode: multiply;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p,form{
+    color: whitesmoke;
+}
+
+li{
+    color: rgb(132, 132, 172);
+}
+
+li:hover{
+    color: rgb(213, 213, 224);
+}
+
+.ordering  img{
+    width: 20%;
+    margin: -1% 5% 5% 5%;
+    opacity: 60%;
+    border-radius: 10px;
+
+}
+.ordering  img:hover{
+    opacity: 1;
+    border-radius: 0;
+}
+._prices h1{
+    padding-top: 10%;
+    margin-left: 5%;
+    font-size: 3em;
+
+}
+.btn{
+    transition: 0.5s;
+    cursor: pointer;
+}
+.buy-buttton{
+
+    background-color: rgb(94, 94, 131);
+    border-radius: 6px;
+    
+}
+
+.buy-buttton:hover{
+    color: rgb(94, 94, 131);
+    background-color: transparent;
+    border: 1px solid rgb(94, 94, 131);
+
+}
+.order-btn1{
+    color: rgb(6, 6, 139) ;
+    font-size: 0.7em;
+    margin-top: 30%;
+    font-weight: bolder;
+}
+
+.order-btn1:hover{
+    background-color:rgb(6, 6, 139) ;
+    color: whitesmoke;
+}
+.homepage{
+    width: 100%;
+    padding-top: 5%;
+    text-align: left;
+}
+.homepage img{
+    opacity: 0.4;
+    transform: rotateY(180deg);
+    transition: 2s;
+    border-radius: 20px;
+    padding: 1%;
+    width: 27%;
+
+}
+.homepage img:hover{
+    width: 30%;
+    opacity: 5;
+    transform: rotateY(0deg);
+    border: 1px solid rgba(255, 217, 0, 0.26);
+    cursor: progress;
+
+}
+.services{
+    
+    border: 2px solid black;
+    transition: ease-in-out 1s;
+    border-radius: 20px;
+    
+    background-color:transparent;
+}
+
+.services:hover{
+    border: 1px solid rgb(139, 136, 136);
+    background-color: rgba(0, 0, 0, 0.76);
+
+}
+
+h2, h1,h3,h4,h5{
+    padding-left: 10%;
+}
+p{
+    padding-left: 2%;
+}
+.services_img{
+    position: relative;
+    width: 20%;
+
+}
+.services_img img{
+    border-radius: 20px;
+    transition: 0.5s;
+    width: 25%;
+    margin: 3%;
+    opacity: 70%;
+
+}
+
+.services_img img:hover{
+    opacity: 100%;
+    width: 29%;
+    border-radius: 0;
+
+}
+.img_text{
+    font-size: medium;
+    font-weight: 1000;
+    position: absolute;
+    left: 25%;
+    -webkit-text-stroke: 0.7px black;
+    -webkit-text-fill-color:gold ;
+    
+}
+
+.ordering {
+    margin-top: 15%;
+    margin-bottom: 3%;
+}
+input{
+    margin-bottom: 4%;
+    background:rgba(0, 0, 0, 0.432);
+    border: 1px solid yellow;
+    color: gold;
+    max-width: 50%;
+}
+input:hover{
+    background:rgba(0, 0, 0, 0.432);
+    border: 1px solid whitesmoke;
+    color: gold;
+}
+.span input {
+    width: 3%;
+    background:rgba(0, 0, 0, 0.432);
+    border: 1px solid yellow;
+    color: gold;
+}
+.submit{
+    border: 1px solid gold;
+    color: gold;
+    text-decoration: none;
+    font-size: 1em;
+    border-radius: 20px;
+    padding: 0 2%;
+    transition: 1s;
+    cursor: pointer;
+    margin: 1%;
+}
+.submit:hover{
+    font-size: 1.1em;
+    color: rgba(255, 217, 0, 0.349);
+}
+
+hr{
+    width: 55% ;
+}
+
+.prices{
+    font-weight: lighter;
+    color: rgba(255, 217, 0, 0.417);
+}
+
+.footer{
+    margin-top: 10%;
+    width: 100%;
+    color: darkgray;
+    background-color: rgba(54, 54, 224, 0.226);
+    border-radius: 50px;
+    border: 1px solid rgb(27, 27, 234);
+}
+
+.footer:hover{
+    color: wheat;
+    background-color: rgba(255, 217, 0, 0.055);
+}
+
+.footer a{
+    text-decoration: none;
+    margin-right: 3%;
+
+}
+
+.footer img{
+
+    transition: 1s;
+    border-radius: 50%;
+    margin-top: 10%;
+    width: 40px;
+    
+}
+.footer img:hover{
+    transition: 3s;
+    transform: rotate(720deg);
+    background-color: white;
+    
+}
+.footernav{
+
+    display: flex;
+    width: 100%;
+    font-size: 140%;
+    padding-left: 2%;
+    font-family: cursive;
+}
+.footext{
+    margin-top: 1%;
+}
+.contacts img{
+    transition: 1s;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 2%;
+
+}
+
+
+.contacts img:hover{
+    border-radius: 40%;
+    width: 55px;
+    transform: rotate(360deg);
+}
+.contacts a{
+    text-decoration: none;
+    color: white;
+}
+table{
+    transition: 1s;
+    color: gold;
+    min-width: 80%;
+}
+table:hover{
+    cursor:text;
+    color: white;
+}
+
+table ,th, td{
+    padding: 3%;
+    text-align: center;
+    border: 1px solid gold;
+    border-collapse: collapse;
+}
+
+table li{
+    text-align: left;
+}
+
+.homepage , .services, .ordering, #cart {
+    min-height: 60vh;
+}
+
+.cart-header{
+    border-bottom: 1px solid black;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 1.2em;
+
+}
+.cart-column{
+    border-bottom: 1px solid black;
+    align-self: center;
+    text-align: center;
+    margin-right:2em ;
+    padding-bottom: 10px;
+    margin-top: 10px; 
+}
+
+.cart-row{
+    display: flex;
+    
+
+}
+ .cart-price{
+     margin-right: 1em;
+     width: 20%;
+     font-size: 1.2em;
+ }
+
+
+.cart-input{
+    border: 1px solid #56ccf2;
+    background-color: rgba(67, 20, 195, 0.068);
+    text-align: center;
+    font-family: fantasy;
+    max-width: 600px;
+    padding: 0;
+    border-radius: 20px;
+    font-size: 1em;
+    margin-right: 60px;
+    transition: 1s;
+    }
+    
+.cart-item{
+        width: 45%;
+    }
+    
+.cart-quantity{
+        width: 35%;
+    }
+    
+
+    
+.item-title{
+        color:gray ;
+        margin: .5em;
+        font-size: 1.2em;
+    }
+.cart-img{
+        width:25%;
+         height:auto;
+         border-radius: 30px;
+    }
+    
+    
+    
+.cart-row:last-child{
+        border-bottom: 1.2px solid rgba(151, 135, 135, 0.568);
+    }
+.cart-row:last-child .cart-column{
+        border: none;
+    }
+
+.product{
+        margin: 30px;
+    }
+.product:hover{
+        transition: 0.4s;
+        font-size: 105%;
+        font-size-adjust: 2s;}
+.producttitle{
+        display: block;
+        width: 100%;
+      
+        text-align: center;
+        font-weight: bold;
+        font-size: 1.5em;
+        margin-bottom: 15px;
+        color: brown;
+    }
+    
+    
+    
+.productdetails{
+        display: flex;
+        align-items: center;
+        padding: 1px;
+    }
+    
+.productprice{
+        flex-grow: 0.5;
+        
+    }
+    
+.products-holder{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        
+    }
+.product-div{
+    max-width: 30%;
+    align-items: center;
+    margin: 2% 0;
+}
+.productimage{
+    width: 90%;
+}
+.mpesaError {
+
+
+        background-color: rgb(12, 12, 22); 
+        align-self: center;
+        text-align: center;
+        border-radius: 20px;
+        position: fixed;
+        visibility: hidden;
+        width: 90%;
+        height: 90vh;
+        margin:2%;
+
+    }
+.popup{
+        transition: 1s;
+        font-size: 300%; 
+        align-content: center;
+        visibility: hidden;
+        text-align: center;
+        background-color: red;
+        color: white;
+        border-radius: 20px;
+        margin: 10%;
+        position: fixed ;
+    
+    }
+.orderPopup{
+    visibility: hidden;
+    position: fixed;
+    width: 80%;
+    margin: 5%;
+    background-color: black;
+}
+.total{
+    margin-left: 70%;
+    border: 0.1px solid blue;
+    width: fit-content;
+    padding: 2%;
+    border-radius: 20px;
+}
+.spaced{
+    padding-bottom: 5%;
+}
+
+.shop{
+
+background: url(background.jpg);
+background-color: rgba(0, 0, 0, 0.774);
+background-blend-mode: multiply;
+background-size: cover;
+}
+
+#cartLoaded{
+    color: red;
+    background-color: rgb(239, 236, 216);
+    padding: 0 0.3%;
+    font-weight: bolder;
+    border-radius: 5px;
+    visibility: hidden;
+}

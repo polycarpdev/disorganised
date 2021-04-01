@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>EFT</title>
+        <link rel="stylesheet" href="eft-style.css">
+        <script src="js.js" async></script>
+    </head>
+
+    <body>
+        <div class="orderPopup" id="orderpopup">
+            <h3>COMPLETE ORDER</h3>
+    
+            <p>Complete your order by filling the form below: </p>
+    
+            <form>
+                <label>Name:</label>
+                <input type="text" ><br>
+                    
+                <label>Phone no:</label>
+                <input type="number"><br>
+    
+                <label>Location:</label>
+                <input type="text"><br>
+    
+                <label>E-mail:</label>
+                <input type="email" value="name@gmail.com"><br>
+    
+                <label>Gender:</label>
+                <input type="text"><br>
+    
+                <label>Product: </label>
+                <input type="text"> 
+                 <br>
+                 <label > MODE OF DELIVERY </label> <br>
+    
+                 <label > Pick from nearest station</label>
+                 <input type="checkbox" > <br>
+    
+                 <label > Delivered at your home</label>
+                 <input type="checkbox" > <br>
+    
+                 
+    
+               <a  class="submit" onclick="myfunction1()"> Submit</a> <br>.
+            </form>
+        </div>
+        <h1>INTEGRATING ELECTRONIC PAYMENT OPTION </h1>
+        <h3>Paypal</h3>
+
+        <ol>
+            <li>
+                create a paypal business account
+            </li>
+            <li>Go to <a href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=mp2ytvZi4WxdNLrYYUqG-S4Au6B-JfAlzdOSQ5-k7Ibf6yEhEZ6H1d0OUvO&dispatch=5885d80a13c0db1f8e263663d3faee8db8175432b4df92754f4b4adb5a123d61&rapidsState=Merchant__ButtonDesignerFlow___StateButtonDesignerStart&rapidsStateSignature=116e01189f9e94881755f8c77b624569d4adb4d3">this page </a> to add item details for which you want to create a paypal button</li>
+        </ol>
+
+        <h3>Manually</h3>
+
+        Create an interface for customers to select items , add them to the cart and then pay electronically as illustrated below.
+
+         <!-- THIS DIV IS HIDDEN. It pops up only when the website is unable to complete payment through paybill option-->
+
+         <div class="popup" id="popup">Item is already in the cart <button class="btn " id="okbtn "
+            onclick="myfunction()">OK</button> </div>
+                    <!--End of the hidden popup-->
+                    
+
+
+        <!--The floating navigation bar-->
+        <nav>
+            <a class="tab" href="#">HOME</a> |
+            
+            <a href="#shop ">ORDER</a>|
+            <a href="#cart">CART <sup id="cartLoaded">l</sup> </a> |
+            
+            
+        </nav>
+
+        <!-- THIS DIV IS HIDDEN. It pops up only when the website is unable to complete payment through paybill option-->
+        <div class="mpesaError" id="mpesaError" style="text-align: center;">
+
+            <h4 style="color: red">Error on our side!.<a>.. but it's all right for you.</a> </h4>
+        
+            <p style="color: blue;"> Sorry, One-time M-pesa paybill service is currently unavailable since the segment is under
+                Maintenance.<br> To complete your payment, Please go to sim toolkit then :</p> <br>
+        
+        
+            M-Pesa<br>
+            Send Money<br>
+            Enter no: <strong><i>+254 708 487 510</i></strong><br>
+            Enter amount:<span class="total-price1"><i style="opacity: 50%;"> ( your CART is empty! choose items to buy )</i></span>
+            <br><br>
+            Afterwards, click <a target="_blank" href="https://chatwith.io/s/600e516c49dcc"
+                style="text-decoration: none; font-weight: bolder;">HERE</a> to get your product
+            <a target="_blank" href="https://www.whatsapp.com">
+        
+                <a href="submitted.html">
+                    <button onclick="hideError()" style=" color: rgb(0, 78, 131); font-size: larger;" role="button"
+                        class="btn order-btn">OK</button>
+                </a>
+            </a>
+        
+        
+        </div>
+        <!--End of the hidden popup-->
+        
+
+    
+    <section class="shop" >
+        <div class="spaced" id="shop"></div>
+
+        <h2>BROOKSiDE Online shop</h2>
+       
+
+        <div class="products-holder"  >
+            <div class="product-div">
+
+                <span class="producttitle">Ghee</span>
+
+
+                <img class="productimage" src="Ghee.png"   >
+                <div class="productdetails"> <span class="productprice">Kshs. 350 </span>
+                    <button role="button" class="btn   buy-buttton">Buy This </button>
+                </div>
+            </div>
+
+            <div class="product-div">
+
+                <span class="producttitle">Fresh Milk</span>
+
+
+                <img class="productimage" src="freshmilk.png"   >
+                <div class="productdetails"> <span class="productprice">Kshs. 50 </span>
+                    <button role="button" class="btn   buy-buttton">Buy This </button>
+                </div>
+            </div>
+
+            <div class="product-div">
+
+                <span class="producttitle">Long Life milk</span>
+
+
+                <img class="productimage" src="longlife.png"   >
+                <div class="productdetails"> <span class="productprice">Kshs. 150 </span>
+                    <button role="button" class="btn   buy-buttton">Buy This </button>
+                </div>
+            </div>
+
+            <div class="product-div">
+
+                <span class="producttitle">Fermented milk</span>
+
+
+                <img class="productimage" src="lala.png"   >
+                <div class="productdetails"> <span class="productprice">Kshs. 100 </span>
+                    <button role="button" class="btn   buy-buttton">Buy This </button>
+                </div>
+            </div>
+
+            <div class="product-div">
+
+                <span class="producttitle">Butter</span>
+
+
+                <img class="productimage" src="Butter.png"   >
+                <div class="productdetails"> <span class="productprice">Kshs. 450 </span>
+                    <button role="button" class="btn   buy-buttton">Buy This </button>
+                </div>
+            </div>
+
+            <div class="product-div">
+
+                <span class="producttitle">Flavoured Yoghut</span>
+
+
+                <img class="productimage" src="friut-yoghurt-brookeside.png"   >
+                <div class="productdetails"> <span class="productprice">Kshs. 400 </span>
+                    <button role="button" class="btn   buy-buttton">Buy This </button>
+                </div>
+            </div>
+
+            <div class="product-div">
+
+                <span class="producttitle">Natural Yoghurt</span>
+
+
+                <img class="productimage" src="Natural-Yogurt-370x230.png"   >
+                <div class="productdetails"> <span class="productprice">Kshs. 200 </span>
+                    <button role="button" class="btn   buy-buttton">Buy This </button>
+                </div>
+            </div>
+
+            <div class="product-div">
+
+                <span class="producttitle">Brookside Sticker</span>
+
+
+                <img class="productimage" src="logo.png"   >
+                <div class="productdetails"> <span class="productprice">Kshs. 50 </span>
+                    <button role="button" class="btn   buy-buttton">Buy This </button>
+                </div>
+            </div>
+
+
+
+             
+        </div>
+
+        
+    </section>
+
+
+    <section id="cart" class="cart-section">
+
+        
+        <h2 class="section-header">CART</h2>
+
+        <div class="cart-row">
+            <span class="cart-item cart-column cart-header">ITEM</span>
+            <span class="cart-price cart-column cart-header">PRICE</span>
+            <span class="cart-quantity cart-column cart-header">QUANTITY</span>
+
+        </div>
+        <div class="cart-items">
+
+
+
+            <!-- CART ITEMS STAY HERE -->
+
+
+
+
+        </div>
+        </div>
+
+        <br><br><br><br>
+
+        <div class="total">
+            <span class="total-title">Total :</span>
+            <span class="total-price">Kshs. <i style="color: rgba(136, 169, 199, 0.575);">00</i></span> <br>
+            <a style="text-decoration: none;">
+                <button onclick="completeOrder()" role="button"
+                    class="btn order-btn1">
+                    COMPLETE ORDER
+                </button>
+    
+            </a>
+
+            
+        </div>
+
+       
+
+
+    </section>
+
+    </body>
+</html>
